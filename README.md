@@ -2,5 +2,5 @@
 My First Repository
 
 # H1
-Victor Magtanggol AKA Hammer Man#
+Victor Magtanggol AKA Hammer Man
 
